@@ -1,16 +1,20 @@
-### Hi there 👋
+## Russian scientist and Researcher
 
-<!--
-**AntonSHBK/AntonSHBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+[![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://github.com/AntonSHBK)
+[![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=Git)](https://github.com/AntonSHBK)
+[![PostgreSQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=PostgreSQL)](https://github.com/AntonSHBK)
+[![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=Linux)](https://github.com/AntonSHBK)
+[![PyTorch](https://img.shields.io/badge/-Pytorch-090909?style=for-the-badge&logo=pytorch)](https://github.com/AntonSHBK)
+[![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)](https://github.com/AntonSHBK)
 
-Here are some ideas to get you started:
+### My Social Links
+[![ORCiD](https://img.shields.io/badge/-ORCiD-090909?style=for-the-badge&logo=orcid)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+[![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)]()
+
+<details>
+
+
+</details>
