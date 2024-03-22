@@ -27,8 +27,7 @@
 # ⚡ GitHub Stats
 <div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSHBK&layout=donut-vertical&theme=radical&size_weight=0&count_weight=1)](https://github.com/AntonSHBK)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSHBK&layout=donut&theme=radical&size_weight=0&count_weight=1)](https://github.com/AntonSHBK)
 [![AntonSHBK's github stats](https://github-readme-stats.vercel.app/api?username=AntonSHBK&show_icons=true?count_private=true&theme=radical)](https://github.com/AntonSHBK)
 
 </div>
