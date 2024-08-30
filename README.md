@@ -60,9 +60,9 @@
 
 </div>
 
-# ⚡ GitHub Repositories
+<!-- # ⚡ GitHub Repositories -->
 
-<style>
+<!-- <style>
   table {
     width: 100%;
   }
@@ -100,7 +100,7 @@
       <p><a href="https://github.com/AntonSHBK/mobile_robot_base_ros1" target="_blank">Go to repository</a></p>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td>
       <img src="https://github.com/AntonSHBK/mobile_robot_base_ros1/blob/main/imgs/priview.jpg?raw=true" alt="Project Image 1" width="200px" height="auto">
     </td>
@@ -119,6 +119,6 @@
       <p>This project demonstrates the process of creating simulation models for various types of robots and manipulators, with a detailed explanation of building a URDF model of a four-wheeled mobile robot using ROS Noetic and Gazebo. It includes the development and design of the model, as well as integration with simulation environments and programming of robot behavior.</p>
       <p><a href="https://github.com/AntonSHBK/mobile_robot_base_ros1" target="_blank">Go to repository</a></p>
     </td>
-  </tr> -->
-</table>
+  </tr>
+</table> -->
 
