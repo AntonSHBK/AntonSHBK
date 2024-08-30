@@ -2,10 +2,6 @@
 
 ### Languages and Tools
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/110025587?v=4"  />
-
-###
-
 <div align="left">
     <img src="https://img.shields.io/badge/ROS-ROS-9B3D00?logo=ros&logoColor=white&style=for-the-badge" height="30" alt="ROS logo" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo" />
