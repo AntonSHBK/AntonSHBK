@@ -1,6 +1,4 @@
-## Russian scientist and Researcher
-
-**Postgraduate Student | Mechatronics & Robotics | NLP Enthusiast**  
+## Postgraduate Student | Mechatronics & Robotics | NLP Enthusiast
 
 Hi there! 👋  
 I’m a postgraduate student specializing in mechatronics and robotics, with a passion for programming and research. My work spans across robotics, signal processing, and natural language processing (NLP), where I explore the fascinating world of large language models.  
