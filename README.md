@@ -10,6 +10,11 @@ Let’s connect and collaborate on exciting projects! 🚀
 ### Languages and Tools
 
 <div align="left">
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="PyTorch logo" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="Pandas logo" /></a>
+  <a href="https://dash.plotly.com/"><img src="https://img.shields.io/badge/Dash-000000?logo=plotly&logoColor=white&style=for-the-badge" height="30" alt="Dash logo" /></a>
+  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" height="30" alt="Plotly logo" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge" height="30" alt="Hugging Face logo" /></a>
   <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-ROS-9B3D00?logo=ros&logoColor=white&style=for-the-badge" height="30" alt="ROS logo" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo" /></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="C++ logo" /></a>
@@ -17,12 +22,8 @@ Let’s connect and collaborate on exciting projects! 🚀
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="Docker logo" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git logo" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="PostgreSQL logo" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="Linux logo" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="PyTorch logo" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="Pandas logo" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="Linux logo" /></a>  
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="Django logo" /></a>
-
-
 </div>
 
 ### My Social Links
