@@ -42,6 +42,9 @@ Let’s connect and collaborate on exciting projects! 🚀
 
 </div>
 
+<a href="https://www.github.com/AntonSHBK" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AntonSHBK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### How to reach me
 
 <div align="left">
@@ -69,65 +72,11 @@ Let’s connect and collaborate on exciting projects! 🚀
 
 </div>
 
-<!-- # ⚡ GitHub Repositories -->
+<b>Repositories</b>
 
-<!-- <style>
-  table {
-    width: 100%;
-  }
-  td {
-    padding: 10px;
-    vertical-align: top;
-  }
-  img {
-    border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-  }
-  h3 {
-    margin-top: 0;
-  }
-  p {
-    margin-bottom: 5px;
-  }
-  a {
-    text-decoration: none;
-    color: #0366d6;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
+<div width="100%" align="center"><a href="https://github.com/AntonSHBK/language_translator_M2M100" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=language_translator_M2M100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AntonSHBK/celery_task_service" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=celery_task_service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/AntonSHBK/mobile_robot_base_ros1/blob/main/imgs/priview.jpg?raw=true" alt="Project Image 1" width="200px" height="auto">
-    </td>
-    <td>
-      <h3>Mobile Robot Simulation in ROS Noetic and Gazebo</h3>
-      <p>This project demonstrates the process of creating simulation models for various types of robots and manipulators, with a detailed explanation of building a URDF model of a four-wheeled mobile robot using ROS Noetic and Gazebo. It includes the development and design of the model, as well as integration with simulation environments and programming of robot behavior.</p>
-      <p><a href="https://github.com/AntonSHBK/mobile_robot_base_ros1" target="_blank">Go to repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/AntonSHBK/mobile_robot_base_ros1/blob/main/imgs/priview.jpg?raw=true" alt="Project Image 1" width="200px" height="auto">
-    </td>
-    <td>
-      <h3>Mobile Robot Simulation in ROS Noetic and Gazebo</h3>
-      <p>This project demonstrates the process of creating simulation models for various types of robots and manipulators, with a detailed explanation of building a URDF model of a four-wheeled mobile robot using ROS Noetic and Gazebo. It includes the development and design of the model, as well as integration with simulation environments and programming of robot behavior.</p>
-      <p><a href="https://github.com/AntonSHBK/mobile_robot_base_ros1" target="_blank">Go to repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/AntonSHBK/mobile_robot_base_ros1/blob/main/imgs/priview.jpg?raw=true" alt="Project Image 1" width="200px" height="auto">
-    </td>
-    <td>
-      <h3>Mobile Robot Simulation in ROS Noetic and Gazebo</h3>
-      <p>This project demonstrates the process of creating simulation models for various types of robots and manipulators, with a detailed explanation of building a URDF model of a four-wheeled mobile robot using ROS Noetic and Gazebo. It includes the development and design of the model, as well as integration with simulation environments and programming of robot behavior.</p>
-      <p><a href="https://github.com/AntonSHBK/mobile_robot_base_ros1" target="_blank">Go to repository</a></p>
-    </td>
-  </tr>
-</table> -->
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/AntonSHBK/speech_to_text_service" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=speech_to_text_service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AntonSHBK/fine_tune_gpt_model" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=fine_tune_gpt_model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
