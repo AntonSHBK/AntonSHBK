@@ -42,9 +42,6 @@ Let’s connect and collaborate on exciting projects! 🚀
 
 </div>
 
-<a href="https://www.github.com/AntonSHBK" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AntonSHBK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### How to reach me
 
 <div align="left">
@@ -72,11 +69,11 @@ src="https://img.shields.io/github/followers/AntonSHBK?logo=github&style=for-the
 
 </div>
 
-<b>Repositories</b>
+<!-- <b>Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/AntonSHBK/language_translator_M2M100" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=language_translator_M2M100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AntonSHBK/celery_task_service" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=celery_task_service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/AntonSHBK/speech_to_text_service" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=speech_to_text_service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AntonSHBK/fine_tune_gpt_model" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=fine_tune_gpt_model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/AntonSHBK/speech_to_text_service" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=speech_to_text_service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AntonSHBK/fine_tune_gpt_model" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonSHBK&repo=fine_tune_gpt_model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> -->
 
