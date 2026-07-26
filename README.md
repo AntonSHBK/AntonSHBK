@@ -1,11 +1,14 @@
-## Postgraduate Student | Mechatronics & Robotics | NLP Enthusiast
+## Robotics & Mechatronics Engineer | UAV Systems | AI & Software Development
 
-Hi there! 👋  
-I’m a postgraduate student specializing in mechatronics and robotics, with a passion for programming and research. My work spans across robotics, signal processing, and natural language processing (NLP), where I explore the fascinating world of large language models.  
+Hi there!
 
-I enjoy solving complex problems, contributing to open-source projects, and constantly learning new things. My repositories include research experiments, innovative tools, and solutions to practical challenges in engineering and AI.  
+I'm an engineer specializing in robotics, mechatronics, and unmanned aerial systems (UAVs), with a strong focus on software development, artificial intelligence, and applied research.
 
-Let’s connect and collaborate on exciting projects! 🚀  
+My work spans robotics, autonomous systems, signal processing, natural language processing (NLP), and large language models (LLMs). I develop software, AI-powered business solutions, engineering tools, and research prototypes that bridge cutting-edge technologies with real-world applications.
+
+I enjoy solving complex engineering challenges, contributing to open-source projects, and continuously exploring new technologies. My repositories include research projects, production-ready services, developer tools, and practical solutions in robotics, AI, and software engineering.
+
+Let's connect and build innovative technologies together. 
 
 ### Languages and Tools
 
