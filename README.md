@@ -60,7 +60,7 @@ Let's connect and build innovative technologies together.
 </div>
 
 
-# ⚡ GitHub Stats
+# GitHub Stats
 <div>
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSHBK&layout=donut&theme=radical&size_weight=0&count_weight=1)](https://github.com/AntonSHBK) -->
